@@ -1,0 +1,13 @@
+body {
+    background: url('./food.jpg') no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+h2{
+    color: #e75f10;
+}
+h5{
+    color: #1f11e2;
+}
