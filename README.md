@@ -1,3 +1,3 @@
 # Food Bank
 
-An Waste Food Managemet System
+A Waste Food Managemet System
